@@ -1,3 +1,4 @@
+# simple liner regression
 # Step 1: Import libraries
 import numpy as np
 import matplotlib.pyplot as plt
